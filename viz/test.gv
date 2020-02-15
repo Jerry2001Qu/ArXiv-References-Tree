@@ -1,0 +1,16 @@
+digraph {
+	e8961cfbb73313b01f2b768650d8851a015e8d18 [label="Towards a Human-like Open-Domain Chatbot"]
+	"2893a347f1cb32b16d4a2cfd0ef01d505ef1c9ec" [label="Generating High-Quality and Informative Conversation Responses with Sequence-to-Sequence Models"]
+	"60b05f32c32519a809f21642ef1eb3eaf3848008" [label="ROUGE: A Package For Automatic Evaluation Of Summaries"]
+	fa72afa9b2cbc8f0d7b05d52548906610ffbb9c5 [label="Neural Machine Translation by Jointly Learning to Align and Translate"]
+	"37e433d159daa0ab561cbff6bd02612207c7eece" [label="The Winograd Schema Challenge"]
+	aad56aebfdc8cc58a948b50958261b4804fd3bc9 [label="Learning to Control the Specificity in Neural Response Generation"]
+	"29de7c0fb3c09eaf55b20619bceaeafe72fd87a6" [label="Hierarchical Neural Story Generation"]
+	ba49d3823d43515e447296ca4e1e55d3f1fd8c4d [label="Neural Responding Machine for Short-Text Conversation"]
+	"77b9505e6967cfb45eaf6ec8ac7746cbaaab6e0d" [label="DialogWAE: Multimodal Response Generation with Conditional Wasserstein Auto-Encoder"]
+	d7da009f457917aa381619facfa5ffae9329a6e9 [label="Bleu: a Method for Automatic Evaluation of Machine Translation"]
+	e8961cfbb73313b01f2b768650d8851a015e8d18 -> "2893a347f1cb32b16d4a2cfd0ef01d505ef1c9ec"
+	e8961cfbb73313b01f2b768650d8851a015e8d18 -> "60b05f32c32519a809f21642ef1eb3eaf3848008"
+	e8961cfbb73313b01f2b768650d8851a015e8d18 -> fa72afa9b2cbc8f0d7b05d52548906610ffbb9c5
+	e8961cfbb73313b01f2b768650d8851a015e8d18 -> "37e433d159daa0ab561cbff6bd02612207c7eece"
+}
